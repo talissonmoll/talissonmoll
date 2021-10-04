@@ -2,7 +2,7 @@
 
 - 😎 You can call me Tálisson,
 - 🔭 I'm currently work as a front end dev,
-- 🤓 I’m currently learning Wordpress and NodeJS.
+- 🤓 I’m currently learning React and NextJS.
 
 
 <div>
